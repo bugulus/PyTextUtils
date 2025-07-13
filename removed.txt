@@ -1,7 +1,5 @@
 john@example.com:password123
 alice@example.com|hunter2
 bob@example.com,password321
-bob@example.com,password321
-bob@example.com,password321
 a:bob
 testmeister:bugs
