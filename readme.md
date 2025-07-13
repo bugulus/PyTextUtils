@@ -31,5 +31,5 @@ This toolset is designed to make basic text file operations easy and scriptable.
 
 1. Clone or download this repo:
    ```bash
-   git clone https://github.com/yourusername/txtutils.git
+   git clone https://github.com/collinrdev/PyTextUtils.git
    cd txtutils
