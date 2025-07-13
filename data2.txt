@@ -1,0 +1,5 @@
+a:bob
+alice@example.com|hunter2
+bob@example.com,password321
+john@example.com:password123
+testmeister:bugs
