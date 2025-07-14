@@ -21,6 +21,7 @@ This toolset is designed to make basic text file operations easy and scriptable.
 > - Merge multiple text files  
 > - Count word and line frequencies  
 > - Search and replace text in bulk
+> - GUI Menu
 
 ## 🚀 Getting Started
 
