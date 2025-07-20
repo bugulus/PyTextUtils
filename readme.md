@@ -17,7 +17,6 @@ This toolset is designed to make basic text file operations easy and scriptable.
 
 
 > More utilities coming soon:    
-> - Remove blank lines  
 > - Merge multiple text files  
 > - Count word and line frequencies  
 > - Search and replace text in bulk
